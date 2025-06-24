@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alepspizzetti/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/alepspizzetti/leetcode/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,5 +79,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/alepspizzetti/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/alepspizzetti/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/alepspizzetti/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
