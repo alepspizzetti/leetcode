@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/alepspizzetti/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/alepspizzetti/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2048-build-array-from-permutation](https://github.com/alepspizzetti/leetcode/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/alepspizzetti/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/alepspizzetti/leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
