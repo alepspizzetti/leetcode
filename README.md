@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/alepspizzetti/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [2048-build-array-from-permutation](https://github.com/alepspizzetti/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/alepspizzetti/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/alepspizzetti/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/alepspizzetti/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Greedy
+|  |
+| ------- |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/alepspizzetti/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 <!---LeetCode Topics End-->
