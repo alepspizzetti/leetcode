@@ -9,6 +9,7 @@
 | [2048-build-array-from-permutation](https://github.com/alepspizzetti/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/alepspizzetti/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/alepspizzetti/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/alepspizzetti/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +58,20 @@
 |  |
 | ------- |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/alepspizzetti/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/alepspizzetti/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/alepspizzetti/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Matrix
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/alepspizzetti/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/alepspizzetti/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
