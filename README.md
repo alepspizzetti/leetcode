@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/alepspizzetti/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/alepspizzetti/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [2048-build-array-from-permutation](https://github.com/alepspizzetti/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/alepspizzetti/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/alepspizzetti/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/alepspizzetti/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/alepspizzetti/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/alepspizzetti/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/alepspizzetti/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/alepspizzetti/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Divide and Conquer
 |  |
