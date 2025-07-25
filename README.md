@@ -12,11 +12,13 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/alepspizzetti/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/alepspizzetti/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/alepspizzetti/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/alepspizzetti/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alepspizzetti/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alepspizzetti/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/alepspizzetti/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/alepspizzetti/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/alepspizzetti/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Graph
 |  |
 | ------- |
