@@ -10,7 +10,6 @@ class Solution {
         }
         
         int maior = Collections.max(unicos);
-        int menor = Collections.min(unicos);
         int maximo = maior;
         
         
