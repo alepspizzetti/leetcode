@@ -10,6 +10,7 @@
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/alepspizzetti/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/alepspizzetti/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/alepspizzetti/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/alepspizzetti/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/alepspizzetti/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/alepspizzetti/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/alepspizzetti/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -42,12 +43,14 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alepspizzetti/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/alepspizzetti/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/alepspizzetti/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/alepspizzetti/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/alepspizzetti/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/alepspizzetti/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/alepspizzetti/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,4 +93,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/alepspizzetti/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/alepspizzetti/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
