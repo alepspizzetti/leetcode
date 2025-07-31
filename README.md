@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/alepspizzetti/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/alepspizzetti/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0088-merge-sorted-array](https://github.com/alepspizzetti/leetcode/tree/master/0088-merge-sorted-array) |
 | [2048-build-array-from-permutation](https://github.com/alepspizzetti/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/alepspizzetti/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/alepspizzetti/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/alepspizzetti/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/alepspizzetti/leetcode/tree/master/0088-merge-sorted-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/alepspizzetti/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/alepspizzetti/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/alepspizzetti/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
