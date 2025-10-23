@@ -30,6 +30,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/alepspizzetti/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/alepspizzetti/leetcode/tree/master/0009-palindrome-number) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/alepspizzetti/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alepspizzetti/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/alepspizzetti/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/alepspizzetti/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/alepspizzetti/leetcode/tree/master/2048-build-array-from-permutation) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/alepspizzetti/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -103,4 +106,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/alepspizzetti/leetcode/tree/master/0088-merge-sorted-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/alepspizzetti/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/alepspizzetti/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
